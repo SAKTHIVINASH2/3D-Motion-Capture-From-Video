@@ -46,3 +46,7 @@ Link to sample data:[CLICK HERE TO SEE THE SAMPLE DATA](AnimationFile.txt)
 3. Update Animator: In the `Update` method, the `Animation_code` script updates the animator's parameters based on the current pose data, causing the 3D model to animate accordingly.
 4. Create Lines: The `line_code` script creates a LineRenderer component and assigns points to it. These points represent the keypoints from the pose data.
 5. Update Line Positions: In the `Update` method of `line_code`, the line renderer's positions are updated based on the positions of the points. This visualizes the captured motion as lines connecting the keypoints.
+
+Link to Animation code:[CLICK HERE TO SEE THE ANIMATION CODE](Animation_code.py)
+
+Link to line code:[CLICK HERE TO SEE THE LINE CODE](line_code.py)
