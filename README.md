@@ -12,15 +12,15 @@ Unity is a powerful game engine that provides a robust platform for creating 3D 
 3. Data Transmission: Send the estimated pose data from Python to Unity in real-time.
 4. 3D Model Animation: In Unity, use the pose data to animate a 3D model, mirroring the user's movements.
 
-python workflow:
-1. Video Acquisition
+## python workflow:
+### 1. Video Acquisition
    * Camera Setup: Use a webcam or external camera to capture real-time video of the user. Ensure the camera is positioned to capture the desired range of motion.
    * Lighting Conditions: Adequate lighting is crucial for accurate pose estimation. Avoid excessive shadows or glare.
-2. Pose Estimation with Python
+### 2. Pose Estimation with Python
    * Library Selection: Choose a suitable Python library for pose estimation, such as OpenCV, TensorFlow, or PyTorch. Each library has its strengths and weaknesses.
    * Model Selection: Select a pre-trained model or train your own model based on your specific requirements.
    * Keypoint Detection: The library will detect keypoints on the user's body, such as the head, shoulders, elbows, wrists, hips, knees, and ankles.
    * Pose Estimation: Using these keypoints, the library will estimate the 3D pose of the user.
 
-Data Storage:
+## Data Storage:
 * Store the estimated pose data in a structured file format (e.g.,TXT, JSON, CSV, or a custom binary format).
