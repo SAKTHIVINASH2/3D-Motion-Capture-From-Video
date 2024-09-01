@@ -33,10 +33,12 @@ pip install -r requirement.txt
    * Keypoint Detection: The library will detect keypoints on the user's body, such as the head, shoulders, elbows, wrists, hips, knees, and ankles.
    * Pose Estimation: Using these keypoints, the library will estimate the 3D pose of the user.
 
-CLICK HERE TO SEE THE CODE:[Link to the code](main_code.py)
+Link to code:[CLICK HERE TO SEE THE CODE](main_code.py)
 
 ## Data Storage:
 * Store the estimated pose data in a structured file format (e.g.,TXT, JSON, CSV, or a custom binary format).
+
+Link to sample data:[CLICK HERE TO SEE THE SAMPLE DATA](AnimationFile.txt)
 
 ## Unity workflow:
 1. Load Pose Data: The `Animation_code` script loads pose data from the TXT file.
