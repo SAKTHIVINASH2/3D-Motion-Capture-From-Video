@@ -35,7 +35,7 @@ pip install -r requirement.txt
 
 Link to code:[CLICK HERE TO SEE THE CODE](main_code.py)
 
-<a href="https://github.com/SAKTHIVINASH2/3D-Motion-Capture-From-Video.git"><img src="" width="75%"/></a>
+<a href="https://github.com/SAKTHIVINASH2/3D-Motion-Capture-From-Video.git"><img src="video/video_1.gif" width="75%"/></a>
 
 ## Data Storage:
 * Store the estimated pose data in a structured file format (e.g.,TXT, JSON, CSV, or a custom binary format).
@@ -53,4 +53,4 @@ Link to Animation code:[CLICK HERE TO SEE THE ANIMATION CODE](Animation_code.cs)
 
 Link to line code:[CLICK HERE TO SEE THE LINE CODE](line_code.cs)
 
-<a href="https://github.com/SAKTHIVINASH2/3D-Motion-Capture-From-Video.git"><img src="" width="75%"/></a>
+<a href="https://github.com/SAKTHIVINASH2/3D-Motion-Capture-From-Video.git"><img src="video/video_2.gif" width="75%"/></a>
