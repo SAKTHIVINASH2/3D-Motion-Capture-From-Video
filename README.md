@@ -12,6 +12,17 @@ Unity is a powerful game engine that provides a robust platform for creating 3D 
 3. Data Transmission: Send the estimated pose data from Python to Unity in real-time.
 4. 3D Model Animation: In Unity, use the pose data to animate a 3D model, mirroring the user's movements.
 
+## To install the 3D Motion Capture From Video, please follow these steps:
+
+1. Clone the repository to your local machine.
+
+2. Install the required dependencies by running the following command:
+
+```
+pip install -r requirement.txt
+```
+
+
 ## Python workflow:
 ### 1. Video Acquisition
    * Camera Setup: Use a webcam or external camera to capture real-time video of the user. Ensure the camera is positioned to capture the desired range of motion.
