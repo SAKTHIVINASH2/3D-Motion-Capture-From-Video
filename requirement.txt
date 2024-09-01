@@ -1,1 +1,2 @@
-
+mediapipe == 0.10.15
+cvzone == 1.6.1
