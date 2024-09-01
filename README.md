@@ -26,7 +26,7 @@ Unity is a powerful game engine that provides a robust platform for creating 3D 
 * Store the estimated pose data in a structured file format (e.g.,TXT, JSON, CSV, or a custom binary format).
 
 ## Unity workflow:
-1. Load Pose Data: The MotionCapture script loads pose data from the JSON file.
+1. Load Pose Data: The `MotionCapture` script loads pose data from the JSON file.
 2. Map to Animator: The MotionCapture script maps the loaded pose data to animator parameters. This involves associating keypoint coordinates with corresponding body parts on the 3D model.
 3. Update Animator: In the Update method, the MotionCapture script updates the animator's parameters based on the current pose data, causing the 3D model to animate accordingly.
 4. Create Lines: The LineRendererManager script creates a LineRenderer component and assigns points to it. These points represent the keypoints from the pose data.
