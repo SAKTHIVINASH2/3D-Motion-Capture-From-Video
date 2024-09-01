@@ -35,6 +35,8 @@ pip install -r requirement.txt
 
 Link to code:[CLICK HERE TO SEE THE CODE](main_code.py)
 
+<a href="https://github.com/yeemachine/kalidokit"><img src="j.gif" alt="Kalidokit Template" width="75%"/></a>
+
 ## Data Storage:
 * Store the estimated pose data in a structured file format (e.g.,TXT, JSON, CSV, or a custom binary format).
 
